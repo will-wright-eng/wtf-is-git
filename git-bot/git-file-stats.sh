@@ -7,7 +7,7 @@ rm "$filename"
 
 # Crawl the current directory excluding .git directory
 repo_root="$(git rev-parse --show-toplevel)"
-find "$repo_root" -type f -not -path './.git/*' | while read -r file
+find "$repo_root" -type f -not -path '*/.git/*' | while read -r file
 do
     # Get the file extension
     extension="${file##*.}"
