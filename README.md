@@ -18,3 +18,36 @@
 ## creative projects
 
 - [Dotfiles Management - mitxela.com](https://mitxela.com/projects/dotfiles_management)
+
+## extending git
+
+- [Extending Git functionality - Stack Overflow](https://stackoverflow.com/questions/10978257/extending-git-functionality)
+- [How To Use Git Hooks To Automate Development and Deployment Tasks | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks)
+
+# dev notes
+
+## ideal state workflow
+
+1. `git bot init`: generate repo data in repo root and add csv names to .gitignore
+2. `git bot ask`: ask git-bot questions about the repo with data context
+
+## flags
+
+### init
+
+- include options for combinations of data tables to include as context
+
+### ask
+
+- pass `sgpt` flags
+
+*OR*
+
+- fork `sgpt` and add git-bot features
+
+
+## notes
+
+```bash
+cp **/*.csv data/
+```
