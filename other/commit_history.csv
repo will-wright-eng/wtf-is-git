@@ -1,6 +1,0 @@
-Commit Author,Lines of Code Added,Lines of Code Removed,Number of Commits,First Commit Date,Last Commit Date
-,54,2,2,git-bot/{git-stats1.sh => git-file-stats.sh},git-bot/output.csv
-,188,2,6,README.md,scripts/git-cc-profile.sh
-,2,0,1,README.md,README.md
-,1,0,1,README.md,README.md
-,4,1,1,README.md,README.md
