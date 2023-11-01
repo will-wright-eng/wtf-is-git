@@ -1,0 +1,23 @@
+william-cass-wright,2023-10-27 03:10:10 -0700
+7	2	git-bot/{git-stats1.sh => git-file-stats.sh}
+47	0	git-bot/output.csv
+
+william-cass-wright,2023-10-27 02:58:57 -0700
+15	2	README.md
+71	0	git-bot/20231018-git-stats.md
+12	0	git-bot/git-history.sh
+21	0	git-bot/git-stats1.sh
+1	0	git-bot/git_history.csv
+68	0	scripts/git-cc-profile.sh
+
+william-cass-wright,2023-10-16 10:06:23 -0700
+2	0	README.md
+
+william-cass-wright,2023-10-09 03:31:19 -0700
+1	0	README.md
+
+william-cass-wright,2023-09-15 01:18:29 -0700
+4	1	README.md
+
+William C. Wright,2023-09-15 01:17:09 -0700
+1	0	README.md
