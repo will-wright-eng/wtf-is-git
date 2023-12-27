@@ -9,6 +9,7 @@
 
 - [Learn to use email with git!](https://git-send-email.io/)
 - [Organizing multiple Git identities | Garrit's Notes](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
+- [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows} | Hacker News](https://news.ycombinator.com/item?id=38124845)
 
 ## analyses
 
@@ -24,7 +25,7 @@
 - [Extending Git functionality - Stack Overflow](https://stackoverflow.com/questions/10978257/extending-git-functionality)
 - [How To Use Git Hooks To Automate Development and Deployment Tasks | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks)
 
-# dev notes
+# git-bot dev notes
 
 ## ideal state workflow
 
