@@ -20,6 +20,7 @@
 ## creative projects
 
 - [Dotfiles Management - mitxela.com](https://mitxela.com/projects/dotfiles_management)
+- [Using Git offline](https://www.gibbard.me/using_git_offline/)
 
 ## extending git
 
