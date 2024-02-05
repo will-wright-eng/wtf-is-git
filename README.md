@@ -10,6 +10,7 @@
 - [Learn to use email with git!](https://git-send-email.io/)
 - [Organizing multiple Git identities | Garrit's Notes](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 - [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows} | Hacker News](https://news.ycombinator.com/item?id=38124845)
+- [My favourite Git commit | dhwthompson.com](https://dhwthompson.com/2019/my-favourite-git-commit)
 
 ## analyses
 
