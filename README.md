@@ -55,3 +55,79 @@
 ```bash
 cp **/*.csv data/
 ```
+
+# gh-stats
+
+```bash
+export OWNER=will-wright-eng
+export REPO=wtf-is-git
+gh repo view "$OWNER/$REPO" --json name,description,stargazerCount,forkCount,issues,pullRequests,createdAt,updatedAt,licenseInfo --jq '. | {name,description,stargazerCount,forkCount,issues,pullRequests,createdAt,updatedAt,licenseInfo}' > tmp
+
+Available fields:
+  assignableUsers
+  codeOfConduct
+  contactLinks
+  createdAt
+  defaultBranchRef
+  deleteBranchOnMerge
+  description
+  diskUsage
+  forkCount
+  fundingLinks
+  hasDiscussionsEnabled
+  hasIssuesEnabled
+  hasProjectsEnabled
+  hasWikiEnabled
+  homepageUrl
+  id
+  isArchived
+  isBlankIssuesEnabled
+  isEmpty
+  isFork
+  isInOrganization
+  isMirror
+  isPrivate
+  isSecurityPolicyEnabled
+  isTemplate
+  isUserConfigurationRepository
+  issueTemplates
+  issues
+  labels
+  languages
+  latestRelease
+  licenseInfo
+  mentionableUsers
+  mergeCommitAllowed
+  milestones
+  mirrorUrl
+  name
+  nameWithOwner
+  openGraphImageUrl
+  owner
+  parent
+  primaryLanguage
+  projects
+  projectsV2
+  pullRequestTemplates
+  pullRequests
+  pushedAt
+  rebaseMergeAllowed
+  repositoryTopics
+  securityPolicyUrl
+  squashMergeAllowed
+  sshUrl
+  stargazerCount
+  templateRepository
+  updatedAt
+  url
+  usesCustomOpenGraphImage
+  viewerCanAdminister
+  viewerDefaultCommitEmail
+  viewerDefaultMergeMethod
+  viewerHasStarred
+  viewerPermission
+  viewerPossibleCommitEmails
+  viewerSubscription
+  visibility
+  watchers
+```
