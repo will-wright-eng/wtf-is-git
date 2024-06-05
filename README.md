@@ -58,6 +58,15 @@ cp **/*.csv data/
 
 # gh-stats
 
+## bash
+
+```bash
+gh org list
+bash scripts/gh-stats.sh will-wright-eng < org > < org > < org >
+```
+
+## gh metadata fields
+
 ```bash
 export OWNER=will-wright-eng
 export REPO=wtf-is-git
