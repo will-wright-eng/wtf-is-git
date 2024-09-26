@@ -27,6 +27,7 @@
 
 - [Extending Git functionality - Stack Overflow](https://stackoverflow.com/questions/10978257/extending-git-functionality)
 - [How To Use Git Hooks To Automate Development and Deployment Tasks | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks)
+- [tummychow/git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb)
 
 # git-bot dev notes
 
