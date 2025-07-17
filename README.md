@@ -33,3 +33,5 @@
 
 - [Git turns 20: A Q&A with Linus Torvalds](https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/)
 - [20 years of Git. Still weird, still wonderful.](https://blog.gitbutler.com/20-years-of-git/)
+- [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
+
